@@ -4,13 +4,34 @@ p{
 	color:red;
 }
 
+.lede{
+	color: blue;
+}
+
+.byline{
+	text-transform: uppercase;
+}
+
+.list{
+	background-color: blue;
+}
+
 img{
 	height:200px;
 	width: 300px;
 }
 
+div{
+	background-color: blue;
+}
+
+.bigphoto{
+	height: 400px;
+	width: 600px;
+}
 ul{
 	list-style-type: square;
+	background-color: blue;
 }
 
 h1{
